@@ -1,5 +1,5 @@
 /*
- * Mini Robot Arm Controller for Summer STEM Camp 2026
+ * Robot Arm Controller for Summer STEM Camp 2026
  * 
  * Joystick 1 (powered by pin 8):
  *   VRy (A0) = Turret (rotate base)
