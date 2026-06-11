@@ -1,6 +1,6 @@
-# Mini Robot Arm Controller
+# Robot Arm Controller
 
-### Summer STEM Camp 2026 Robotics Project
+### Summer STEM Camp Robotics Project
 
 A hands-on robotics project designed for Summer STEM Camp 2026. Students assemble a fully functional 4-degree-of-freedom robotic arm using 3D-printed components, SG90 servo motors, an Arduino Nano, and a PCA9685 servo driver. The arm is controlled using two analog joysticks and is used in a final robotics competition where teams complete challenges requiring precision, speed, and strategy.
 
@@ -258,13 +258,10 @@ By completing this project, students gain experience with:
 
 ![alt text](RoboticArm.jpeg)
 
-### Assembly Process
-
+### Assembly Process 
+To-DO
 *(Insert build photos here)*
 
-### Competition Day
-
-*(Insert competition photos here)*
 
 ---
 
@@ -272,13 +269,11 @@ By completing this project, students gain experience with:
 
 Possible enhancements include:
 
-* Preset arm positions
 * Object sorting routines
 * Autonomous operation
 * OLED status display
 * Wireless control
 * Record-and-playback functionality
-* Inverse kinematics
 
 ---
 
