@@ -258,9 +258,6 @@ By completing this project, students gain experience with:
 
 ![alt text](RoboticArm.jpeg)
 
-### Assembly Process 
-To-DO
-*(Insert build photos here)*
 
 
 ---
@@ -279,4 +276,9 @@ Possible enhancements include:
 
 ## Acknowledgments
 
-Developed for Summer STEM Camp 2026 as an educational robotics platform designed to introduce students to engineering, programming, and robotics through hands-on learning and competition.
+Developed for Germanna Community College Summer STEM Camp 2026 as an educational robotics platform designed to introduce students to engineering, programming, and robotics through hands-on learning and competition.
+
+Dr. Harry Schoeller
+Rodney Estwick
+Ken Jaskowiak
+Michael Byrnes
